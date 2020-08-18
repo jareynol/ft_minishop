@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    position: fixed; 
+    width: 100%; 
+} 
+
+.nav{
+    display: flex; 
+    background-color: black;
+    justify-content: space-between;
+    padding-top: 10px; 
+        
+
+    /* padding-bottom: 5px;  */
+    
+}
+
+
+
+.logo{
+    margin-left: -180px; 
+}
+
+.btn-icons{
+    display:flex;
+    margin-right: 40px; 
+    justify-content: space-around;
+    cursor: pointer;
+    border: 0;
+    padding-top: 10px; 
+   
+}
+
+.btn-link{
+    text-decoration: none;
+    border: 0; 
+}
+
+.cart{
+    margin-right: 20px;
+    border: 0;
+}
+

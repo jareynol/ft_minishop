@@ -1,0 +1,113 @@
+*{
+    margin: 0; 
+    padding: 0; 
+}
+
+.header{
+    position: fixed; 
+    width: 100%; 
+    
+} 
+
+/* .nav{
+    display: flex; 
+    background-color: black;
+    
+    padding-top: 10px; 
+    align-content: center; 
+   
+    
+} */
+
+/* .hidden{
+    margin-right: 120px; 
+} */
+/* .logout a{
+    text-decoration: none; 
+    color: white; 
+    font-size: 30px;  
+    
+}
+
+.logout{
+    text-align: right;
+    padding-top: 15px;  
+    padding-right: 20px;  
+} */
+
+/* .logo{
+    margin: 0 auto; 
+   
+  
+}  */
+
+/* .btn-link{
+    margin: 0 auto; 
+}  */
+
+.footer {
+	height: 100px; 
+    background-color: black; 
+    
+}
+.links{
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: column;
+    padding-top: 30px; 
+    
+}
+
+.footer a{
+    text-decoration: none; 
+    color: white; 
+    font-size: 20px; 
+}
+
+/*
+.icon-link {
+    display:flex;
+    margin: 0 auto; 
+    justify-content: space-between;
+
+} 
+
+.icon-2{
+    margin-left: 30px; 
+    margin-right: 20px; 
+}
+
+.icon-3{
+    margin-left: 10px; 
+    /* margin-right: 20px;  
+}*/
+
+.footer_author{
+    display: flex; 
+    flex-direction: row; 
+    margin: 0 auto; 
+    
+}  
+
+.intra-1{
+    margin-left: 10px; 
+}
+
+ .logo{
+    margin: 0 auto; 
+} 
+ 
+a{
+    color: white; 
+    text-decoration: none; 
+    font-size: 30px; 
+    margin-top: 15px; 
+    margin-right: 20px; 
+   
+} 
+
+.container-1{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;  
+}

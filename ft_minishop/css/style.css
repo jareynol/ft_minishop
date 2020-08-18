@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    position: fixed; 
+    width: 100%; 
+} 
+
+.nav{
+    display: flex; 
+    background-color: black;
+    justify-content: space-between;
+    padding-top: 10px; 
+        
+
+    /* padding-bottom: 5px;  */
+    
+}
+
+
+
+.logo{
+    margin-right: 45px; 
+}
+
+.btn-icons{
+    display:flex;
+    margin-right: 40px; 
+    justify-content: space-around;
+    cursor: pointer;
+    border: 0;
+    margin-top: 15px; 
+   
+}
+
+.btn-link{
+    text-decoration: none;
+    border: 0; 
+}
+
+.cart{
+    margin-right: 20px;
+    border: 0;
+    
+}
+
+
+
+.container{
+    margin-top: 0; 
+    background-color:white;
+}
+
+.category{
+    width: 80%; 
+    background-color: white;
+    margin: 0 auto; 
+    padding-top: 30px;  
+}
+
+
+.new-comics{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+     
+}
+
+.comics{
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.action-box{
+    display: flex; 
+    flex-direction: column;
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+}
+
+.price{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 43px;
+    color: black; 
+    text-align:center;
+}
+
+.new-title{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 43px;
+    color: black; 
+    text-align:center;
+}
+
+
+.buy-button{
+     
+    border-radius: 20px; 
+    border: none;
+    outline: none; 
+    cursor: pointer;
+    
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    
+    text-transform: uppercase;
+}
+
+.main-title{
+    color: black;
+    text-align: center; 
+    padding: 20px 0px; 
+    font-style: bold;
+} 
+
+.title-link{
+    text-decoration: none;
+    color: black;
+    cursor:pointer; 
+   
+}
+
+
+.top-comics{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+
+.line{
+    
+    padding-top: 30px; 
+    width: 100%; 
+}
+
+
+.exclusive{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer{
+    margin-top: 50px; 
+    display: flex; 
+    justify-content: center;
+    background-color: black;
+    flex-direction: row; 
+   
+    align-items: center; 
+
+}  */
+
+ 
+.links{
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: column;
+    
+}
+
+
+
+.icon-link {
+    display:flex;
+    margin: 0 auto; 
+    justify-content: space-between;
+
+} 
+
+.icon-2{
+    margin-left: 30px; 
+    margin-right: 20px; 
+}
+
+.icon-3{
+    margin-left: 10px;  
+    margin-right: 20px;  
+ }
+
+.footer_author{
+    display: flex; 
+    flex-direction: row; 
+    margin: 0 auto; 
+}  
+
+.title-link__white{
+    color: white; 
+    text-decoration: none; 
+    font-size: 30px; 
+    margin-top: 15px; 
+    margin-right: 20px; 
+   
+}
